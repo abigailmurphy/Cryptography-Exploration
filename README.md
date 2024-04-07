@@ -16,10 +16,10 @@ Next, I explored some of the python cryptography tools. This program automatical
 
 From here, I made a file to encrpyt called practice.txt that has a short enough message and also leaves room for padding. It will output a file encrypted.bin with the encrypted message. To execute it takes in the file name in the commandline: python3 rsa-encrypt.py practice.txt.
 
-![Screenshot of self made](rsaKeys/RSAImages/rsa-encrypt-output.png)
+![Screenshot of self made](rsaKeys/RSAImages/rsa-encrypt-files.png)
 
 ## rsa-decrypt.py
 
 Now rsa-decrpyt.py will take a file name in the commandline argument as python3 rsa-decrypt.py encrpyted.bin, and print the decrypted message to the console. 
 
-![Screenshot of self made](rsaKeys/RSAImages/rsa-decrypt-files.png)
+![Screenshot of self made](rsaKeys/RSAImages/rsa-decrypt-output.png)
